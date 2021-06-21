@@ -18,7 +18,7 @@ helper CAmkES macros and an asynchronous data transfer interface for clients.
 
 ## Usage
 
-For clients to use the functionaity exposed by the component, the clients will
+For clients to use the functionality exposed by the component, the clients will
 have to connect to the CAmkES interfaces that the following CPP definition
 expose.
 
